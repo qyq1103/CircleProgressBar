@@ -33,3 +33,15 @@ CircleProgressText属性
         <attr name="isBoldd" format="boolean" />
         <!--字体大小-->
         <attr name="text_size" format="dimension"/>
+        
+添加依赖
+        implementation 'com.github.qyq1103:CircleProgressBar:Tag'
+        
+        
+        
+        
+        
+        
+        
+        
+        
